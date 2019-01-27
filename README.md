@@ -17,7 +17,8 @@ And of course let a comment if you encounter something weird.
 Installation :
 
 (This is a server side mod, players have nothing to do)
-(replace -xxx by -Normal or -Hard or - VerHard or -Nightmare)
+
+(replace -xxx by -Normal or -Hard or - VeryHard or -Nightmare)
 - Download or clone the repositiry
 - DELETE @Zombies-Health-rebalance-xxx folders of server root if already existing
 - Copy the @Zombies-Health-rebalance-xxx folder to the server root
