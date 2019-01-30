@@ -19,7 +19,7 @@ Installation :
 (This is a server side mod, players have nothing to do)
 
 (replace -xxx by -Normal or -Hard or - VeryHard or -Nightmare)
-- Download or clone the repositiry
+- Download or clone the repository
 - DELETE @Zombies-Health-rebalance-xxx folders of server root if already existing
 - Copy the @Zombies-Health-rebalance-xxx folder to the server root
 - Copy the ZombiesHealh.bikey file to the key folder of your server
