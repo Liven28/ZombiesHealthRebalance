@@ -2,10 +2,13 @@
 
 This mod aims to rebalance zombies health to be less random.
 
-There is now différent z categories (from naked old man to full military) witch have différents health
+There is now diffÃ©rent z categories (from naked old man to full military) witch have diffÃ©rents health
 so you can observe and choose witch z you can attack or if you should avoid them.
 
 You can choose among 4 difficulty levels.
+
+It is recommended to use the harder mods with Heavy-Attack-Double-Damage mod
+(https://steamcommunity.com/sharedfiles/filedetails/?id=1637348205)
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
@@ -34,4 +37,4 @@ If you find the mod useful, a word in credits is welcome.
 -----------------------------------------------------------------------------------------------------------------------------------
 
 [FRANCAIS - French]
-Un Tuto est dispo pour modifier vous même les valeurs du mod
+Un Tuto est dispo pour modifier vous mÃªme les valeurs du mod
