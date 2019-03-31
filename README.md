@@ -1,4 +1,4 @@
-# ZombiesHealthRebalance
+﻿# ZombiesHealthRebalance
 
 This mod aims to rebalance zombies health to be less random.
 
@@ -37,4 +37,4 @@ If you find the mod useful, a word in credits is welcome.
 -----------------------------------------------------------------------------------------------------------------------------------
 
 [FRANCAIS - French]
-Un Tuto est dispo pour modifier vous même les valeurs du mod
+Un Tuto est dispo pour modifier vous même les valeurs du mod 
