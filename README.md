@@ -1,4 +1,4 @@
-﻿# ZombiesHealthRebalance
+﻿# ZombiesHealthRebalance (v1.07 stable ready)
 
 This mod aims to rebalance zombies health to be less random.
 
